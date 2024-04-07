@@ -4,9 +4,6 @@
     "noEmit": true
   },
   "include": [
-    "app/*",
-    "packages/*",
-    "test",
-    "docs"
+    "src/*",
   ]
 }

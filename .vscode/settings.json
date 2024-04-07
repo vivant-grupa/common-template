@@ -1,5 +1,9 @@
 {
   "cSpell.words": [
-    "lcov"
+    "fastify",
+    "lcov",
+    "nestjs",
+    "preinstall",
+    "rabbitmq"
   ]
 }
